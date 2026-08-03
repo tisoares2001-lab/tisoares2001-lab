@@ -32,10 +32,11 @@ gantt
 
 ---
 
-### 📈 Estatísticas & Atividade no GitHub
+### 📈 Estatísticas do GitHub
 
 ![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=tisoares2001-lab&theme=dark)
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=tisoares2001-lab&theme=github-compact)
+
+![Seguidores](https://img.shields.io/github/followers/tisoares2001-lab?style=for-the-badge&color=1f6feb&logo=github)
 
 ---
 
