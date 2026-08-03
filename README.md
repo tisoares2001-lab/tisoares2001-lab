@@ -1,19 +1,19 @@
 # Olá, eu sou o Thiago Soares 👋
 
-### 📊 Analista de Business Intelligence & CRM
+### 📊  & CRM
 Atuo na transformação de dados em insights estratégicos para a tomada de decisão comercial e de negócios.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
+![CRM](https://img.shields.io/badge/CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
-### 📅 Linha do Tempo
+### 📅 Linha do Tempo - Profissional
 
 ```mermaid
 gantt
@@ -22,12 +22,10 @@ gantt
     axisFormat  %Y
 
     section Carreira
-    Representante de atendimento ao cliente corporativo    :a1, 2025-05-01, 2026-01-01
-    Estagiário de TI (Atualmente)  :active, b3, 2026-04-01, 2026-12-31
+    Atendimento ao Cliente       :done, a1, 2025-05-01, 2026-01-01
+    Estagiário de TI (Atual) :done, a2, 2026-04-01, 2027-04-01
 
-    section Estudos & Projetos
-    Cursos de SQL & Excel          :b1, 2021-01-01, 2023-05-30
-    Dashboards com Power BI        :b2, 2023-01-01, 2024-12-31
+
 ```
 
 ---
