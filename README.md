@@ -22,9 +22,8 @@ gantt
     axisFormat  %Y
 
     section Carreira
+    Representante de atendimento ao cliente corporativo    :a1, 2025-05-01, 2026-01-01
     Estagiário de TI (Atualmente)  :active, b3, 2026-04-01, 2026-12-31
-    Analista de CRM / BI           :a2, 2022-07-01, 2026-03-31
-    Área Comercial & Atendimento    :a1, 2020-01-01, 2022-06-30
 
     section Estudos & Projetos
     Cursos de SQL & Excel          :b1, 2021-01-01, 2023-05-30
