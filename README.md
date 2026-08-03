@@ -22,13 +22,13 @@ gantt
     axisFormat  %Y
 
     section Carreira
-    Área Comercial & Atendimento   :a1, 2020-01-01, 2022-06-30
-    Analista de CRM / BI          :a2, 2022-07-01, 2026-08-01
+    Estagiário de TI (Atualmente)  :active, b3, 2026-04-01, 2026-12-31
+    Analista de CRM / BI           :a2, 2022-07-01, 2026-03-31
+    Área Comercial & Atendimento    :a1, 2020-01-01, 2022-06-30
 
     section Estudos & Projetos
-    Cursos de SQL & Excel         :b1, 2021-01-01, 2023-05-30
-    Dashboards com Power BI       :b2, 2023-01-01, 2024-12-31
-    Projetos de Business Intelligence :b3, 2024-01-01, 2026-08-01
+    Cursos de SQL & Excel          :b1, 2021-01-01, 2023-05-30
+    Dashboards com Power BI        :b2, 2023-01-01, 2024-12-31
 ```
 
 ---
