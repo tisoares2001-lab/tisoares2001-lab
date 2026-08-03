@@ -1,7 +1,13 @@
 # Olá, eu sou o Thiago 👋
 
-### 📊  & CRM
-Atuo na transformação de dados em insights estratégicos para a tomada de decisão comercial e de negócios.
+### 📊 Estagiário de TI
+
+Oi, eu sou o Thiago Soares: estudante de Análise e Desenvolvimento de Sistemas apaixonado por transformar dados brutos e processos comerciais em inteligência de vendas e eficiência operacional.
+
+Atualmente atuo em Estagiário de TI/CRM no departamento comercial da CONECTA INFRA, onde sou responsável pela gestão, configuração e automação de sistemas CRM/ERP (Odoo), desenvolvimento de Agentes de IA via N8N para WhatsApp e estruturação de análises de dados com SQL, Power BI, Excel Avançado e Python.
+
+Com vivência anterior em Atendimento ao Cliente Corporativo na Calllink, desenvolvi uma visão analítica apurada sobre o comportamento do cliente, integrando a tecnologia diretamente às estratégias de negócios.
+
 
 ---
 
@@ -38,9 +44,9 @@ gantt
 
 ![Seguidores](https://img.shields.io/github/followers/tisoares2001-lab?style=for-the-badge&color=1f6feb&logo=github)
 
+![Snake animation](https://raw.githubusercontent.com/tisoares2001-lab/tisoares2001-lab/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ### 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://linkedin.com/in/tisoares2001)
-- 🔗 [Linktree](https://linktr.ee/tisoares2001)
-- ✉️ [Email](mailto:ti.soares2001@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/tisoares2001) - @tisoares2001
+- ✉️ [Email](mailto:ti.soares2001@gmail.com) - ti.soares2001@gmail.com
