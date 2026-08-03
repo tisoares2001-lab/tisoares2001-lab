@@ -1,4 +1,4 @@
-# Olá, eu sou o Thiago Soares 👋
+# Olá, eu sou o Thiago 👋
 
 ### 📊  & CRM
 Atuo na transformação de dados em insights estratégicos para a tomada de decisão comercial e de negócios.
@@ -10,6 +10,7 @@ Atuo na transformação de dados em insights estratégicos para a tomada de deci
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -19,10 +20,11 @@ Atuo na transformação de dados em insights estratégicos para a tomada de deci
 gantt
     title Minha Trajetória Profissional
     dateFormat  YYYY-MM-DD
-    axisFormat  %Y
+    axisFormat  %m/%Y
+    tickInterval 2m
 
     section Carreira
-    Atendimento ao Cliente       :done, a1, 2025-05-01, 2026-01-01
+    Atendimento ao Cliente   :done, a1, 2025-05-01, 2026-01-01
     Estagiário de TI (Atual) :done, a2, 2026-04-01, 2027-04-01
 
 
@@ -30,11 +32,10 @@ gantt
 
 ---
 
-### 📈 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tisoares2001-lab&show_icons=true&theme=dark" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tisoares2001-lab&layout=compact&theme=dark" height="150" alt="top languages" />
-</p>
+### 📈 Estatísticas & Atividade no GitHub
+
+![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=tisoares2001-lab&theme=dark)
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=tisoares2001-lab&theme=github-compact)
 
 ---
 
