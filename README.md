@@ -41,9 +41,6 @@ gantt
 ---
 
 ### 📈 Estatísticas do GitHub
-
-![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=tisoares2001-lab&theme=dark)
-
 ![Seguidores](https://img.shields.io/github/followers/tisoares2001-lab?style=for-the-badge&color=1f6feb&logo=github)
 
 ![Snake animation](https://raw.githubusercontent.com/tisoares2001-lab/tisoares2001-lab/output/github-contribution-grid-snake-dark.svg)
