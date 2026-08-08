@@ -42,8 +42,6 @@ gantt
 
 ### 📈 Estatísticas do GitHub
 ![Seguidores](https://img.shields.io/github/followers/tisoares2001-lab?style=for-the-badge&color=1f6feb&logo=github)
-
-![Snake animation](https://raw.githubusercontent.com/tisoares2001-lab/tisoares2001-lab/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ### 🌐 Onde me encontrar
