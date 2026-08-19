@@ -1,24 +1,23 @@
 # Olá, eu sou o Thiago 👋
 
-### 📊 Estagiário de TI
+### 📊 Estudante de ADS | Foco em Automação, Dados, Atendimento e Rotinas Operacionais de TI
 
-Oi, eu sou o Thiago Soares: estudante de Análise e Desenvolvimento de Sistemas apaixonado por transformar dados brutos e processos comerciais em inteligência de vendas e eficiência operacional.
+Sou estudante de Análise e Desenvolvimento de Sistemas (UNIP) e Embaixador Estudantil do Google, apaixonado por transformar processos operacionais e dados brutos em eficiência estratégica.
 
-Atualmente atuo em Estagiário de TI/CRM no departamento comercial da CONECTA INFRA, onde sou responsável pela gestão, configuração e automação de sistemas CRM/ERP (Odoo), desenvolvimento de Agentes de IA via N8N para WhatsApp e estruturação de análises de dados com SQL, Power BI, Excel Avançado e Python.
+Tenho sólida experiência na intersecção entre suporte técnico, gestão de CRM e análise de dados. Recentemente, atuei como Estagiário de TI no setor comercial da CONECTA INFRA, onde fui responsável por liderar a migração de controles manuais para automações no CRM/ERP. Lá, desenvolvi mais de 1.150 linhas de código em Python, estruturei mais de 33 campos personalizados e processos no CRM/ERP (Odoo), também criei agentes de IA via n8n e entreguei alguns dashboards gerenciais avançados no Excel e Power BI para apoiar a tomada de decisão.
 
-Com vivência anterior em Atendimento ao Cliente Corporativo na Calllink, desenvolvi uma visão analítica apurada sobre o comportamento do cliente, integrando a tecnologia diretamente às estratégias de negócios.
-
+Com vivência anterior como Técnico de Suporte ao Usuário (B2B) na Callink, possuo forte resiliência, capacidade ágil de resolução de incidentes e visão focada no usuário corporativo. Atualmente, busco novos desafios para aplicar minha visão analítica e técnica em operações de TI ou Inteligência de Negócios.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-![CRM](https://img.shields.io/badge/CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-FF7F00?style=for-the-badge&logo=awsorganizations&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&v=1)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&v=1)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&v=1)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&v=1)
+![CRM](https://img.shields.io/badge/CRM/ERP-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Inglês](https://img.shields.io/badge/Inglês_B1-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ---
 
@@ -32,18 +31,5 @@ gantt
     tickInterval 2m
 
     section Carreira
-    Atendimento ao Cliente   :done, a1, 2025-05-01, 2026-01-01
-    Estagiário de TI (Atual) :done, a2, 2026-04-01, 2027-04-01
-
-
-```
-
----
-
-### 📈 Estatísticas do GitHub
-![Seguidores](https://img.shields.io/github/followers/tisoares2001-lab?style=for-the-badge&color=1f6feb&logo=github)
----
-
-### 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://linkedin.com/in/tisoares2001) - @tisoares2001
-- ✉️ [Email](mailto:ti.soares2001@gmail.com) - ti.soares2001@gmail.com
+    Técnico de Suporte (Callink)  :done, a1, 2025-03-01, 2026-01-01
+    Estagiário de TI (Conecta Infra)    :done, a2, 2026-03-01, 2026-08-01
