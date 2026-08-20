@@ -4,7 +4,9 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (UNIP) e Embaixador Estudantil do Google, apaixonado por transformar processos operacionais e dados brutos em eficiência estratégica.
 
-Tenho sólida experiência na intersecção entre suporte técnico, gestão de CRM e análise de dados. Recentemente, atuei como Estagiário de TI no setor comercial da CONECTA INFRA, onde fui responsável por liderar a migração de controles manuais para automações no CRM/ERP. Lá, desenvolvi mais de 1.150 linhas de código em Python, estruturei mais de 33 campos personalizados e processos no CRM/ERP (Odoo), também criei agentes de IA via n8n e entreguei alguns dashboards gerenciais avançados no Excel e Power BI para apoiar a tomada de decisão.
+Tenho sólida experiência na intersecção entre suporte técnico, gestão de CRM e análise de dados. Recentemente, atuei como Estagiário de TI no setor comercial da CONECTA INFRA, onde fui responsável por liderar a migração de controles manuais para automações no CRM/ERP. 
+
+Também desenvolvi junto com o Setor de TI mais de 1.150 linhas de código em Python, estruturei mais de 33 campos personalizados e processos no CRM/ERP (Odoo), criei agentes de IA WhatsApp via n8n e entreguei alguns dashboards gerenciais avançados no Excel e Power BI para apoiar a tomada de decisão.
 
 Com vivência anterior como Técnico de Suporte ao Usuário (B2B) na Callink, possuo forte resiliência, capacidade ágil de resolução de incidentes e visão focada no usuário corporativo. Atualmente, busco novos desafios para aplicar minha visão analítica e técnica em operações de TI ou Inteligência de Negócios.
 
